@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/":[a],"/dogs":[a],"/dogs/_breed":[a],"/index":[a]}}("static\u002Fchunks\u002Fc416b9d1bb26e6fd746a6e5825f7d68b32b15151.5942c14f297fc26e3740.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
